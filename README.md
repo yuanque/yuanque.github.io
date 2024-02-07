@@ -39,7 +39,7 @@ git config --global user.name "Yuan Que"
 创建新文章：
 
 ```bash
-hugo new posts/2024/02/111/index.md
+hugo new posts/111/index.md
 ```
 
 创建完成后，就可以在 content/posts 文件夹中找到并编写你的文章内容。

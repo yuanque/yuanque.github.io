@@ -57,6 +57,14 @@ theme = "hugo-theme-stack"
     url = "/friends/"
     title = ""
     weight = 4
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "关于"
+    url = "/about/"
+    title = ""
+    weight = 5
 
   [[menu.social]]
     identifier = "github"

@@ -9,7 +9,7 @@ comment:
   waline:
     enable: false
 ---
-![Image 1](qe.jpg)
+![](qe.jpg)
 
 在友链形成的网络中漫游，是一件很有意思的事情。
 

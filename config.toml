@@ -12,6 +12,7 @@ title = "方外丹丘"
 theme = "hugo-theme-stack"
 
 [params]
+  mainSections = ["posts"]
   [params.sidebar]
     emoji = "🍥"
     subtitle = "圆缺还是圆圈。"

@@ -6,14 +6,19 @@ languageCode = "zh-CN"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 # 网站标题
-title = "三角形"
+title = "方外丹丘"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
-theme = "DoIt"
+theme = "hugo-theme-stack"
 
 [params]
-  # DoIt 主题版本
-  version = "0.2.X"
+  [params.sidebar]
+    emoji = "🍥"
+    subtitle = "圆缺还是圆圈。"
+    [params.sidebar.avatar]
+        enabled =  true
+        local = true
+        src = "chu.jpg"
 
 [menu]
   [[menu.main]]
